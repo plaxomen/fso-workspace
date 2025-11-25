@@ -42,4 +42,4 @@ sequenceDiagram
     deactivate server
 
     Note over browser: Render Notes
-    ```
+```
